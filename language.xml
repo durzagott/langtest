@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <translation id="change_lang">
+        <en>CHANGE LANGUAGE</en>
+        <ar>السلام عليكم عزيزي كيف حالك؟</ar>
+    </translation>
+    <translation id="text_1">
+        <en>This is a block of text in english</en>
+        <ar>اعزيزي كيف حالك؟</ar>
+    </translation>
+    <translation id="text_2">
+        <en>Another Block of Text</en>
+        <ar>حالك؟ السلام عكم عز كي </ar>
+    </translation>
+</translations>
